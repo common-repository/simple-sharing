@@ -1,0 +1,59 @@
+div#exxica-simple-sharing-float {
+    display: block;
+    padding: 5px 10px;
+    min-width: 100px;
+    background-color: #fefefe;
+    z-index: 9999;
+}
+
+div#exxica-simple-sharing-float ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 2px 0;
+}
+
+div#exxica-simple-sharing-float ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+a.exxica-simple-sharing-link {
+    text-decoration: none !important;
+    font-size: 14px;
+}
+
+a.exxica-simple-sharing-link:hover {
+    text-decoration: none !important;
+}
+
+.sharing-link-facebook {
+    color: #3b5998 !important;
+}
+
+.sharing-link-twitter {
+    color: #55acee !important;
+}
+
+.sharing-link-googleplus {
+    color: #dd4b39 !important;
+}
+
+.sharing-link-linkedin {
+    color: #007bb5 !important;
+}
+
+.sharing-link-facebook:hover {
+    color: #3b5998 !important;
+}
+
+.sharing-link-twitter:hover {
+    color: #55acee !important;
+}
+
+.sharing-link-googleplus:hover {
+    color: #dd4b39 !important;
+}
+
+.sharing-link-linkedin:hover {
+    color: #007bb5 !important;
+}
